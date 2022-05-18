@@ -1,7 +1,7 @@
-###im drinkings a slurpee rn
+### im drinkings a slurpee rn
 lmao it works, You need to use the Mounts Feature in Pterodactyl and mount the full Titanfall 2 game @/mnt/titanfall on the container
 
-###Get the tiddy falls 2 game.
+### Get the tiddy falls 2 game.
 quickest way to get the game, is to use steamcmd.sh and fool it to thinkings its a windows machine, login and then download the game to a dir. (all this is in the steamcmd docs)
 
 ./steamcmd.sh +@sSteamCmdForcePlatformType windows +force_install_dir /TF2/ +login *USERNAME* +app_update 1237970 validate +quit
