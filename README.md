@@ -8,6 +8,7 @@ quickest way to get the game, is to use steamcmd.sh and fool it to thinkings its
 ./steamcmd.sh +@sSteamCmdForcePlatformType windows +force_install_dir /TF2/ +login *USERNAME* +app_update 1237970 validate +quit
 
 The above line, downloads titanfall2 and put it in /TF2/
+Replace *USERNAME* with your steam username, you will need to have bought the game in order to download it.
 
 ## Docker File?? Wanna build your own??
 
